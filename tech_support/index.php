@@ -22,7 +22,7 @@
     <ul>
         <li><a href="under_construction.php">Register Product</a></li>
     </ul>
-    <!--this is a change i made-->
+    <!--another change-->
     </nav>
 </section>
 <?php include 'view/footer.php'; ?>
